@@ -31,7 +31,6 @@ El diseño parte de una red privada (10.100.0.0/23) y de una red de DMZ (192.168
 
 Rango de VLANs asignado: **3120 - 3159**.
 
-> Criterio: el número de hosts indicado **no incluye la puerta de enlace**. Se usa el prefijo mínimo que cubre los hosts (2^n - 2 >= hosts).
 
 ## 3. Cálculo del prefijo
 
